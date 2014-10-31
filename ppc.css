@@ -1,0 +1,11 @@
+.container{
+	background-color:black;
+	min-width: 970px;
+	height: 800px;
+}
+.header{
+	width: 970px;
+	height: 125px;
+	display:block;
+	background-color:#bfbfbf;
+}
